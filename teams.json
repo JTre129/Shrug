@@ -160,7 +160,11 @@
 "mascot": "Zalgris",
 "short": "ZAL",
 "homeText": "FFFFFF",
-"homeMain": "146734" , "homeSecondary": "ED6723" , "awayText": "146734" , "awayMain": "FFFFFF" , "awaySecondary": "ED6723",
+"homeMain": "146734",
+"homeSecondary": "ED6723",
+"awayText": "146734",
+"awayMain": "FFFFFF",
+"awaySecondary": "ED6723",
 "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/800px-BC_%C5%BDalgiris_logo.svg.png"
 },
 {
