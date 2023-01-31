@@ -136,11 +136,11 @@
 "mascot": "Virtys Bologna",
 "short": "BOL",
 "homeText": "FFFFFF",
-"homeMain": "FFE700",
-"homeSecondary": "000000",
-"awayText": "FFE700",
-"awayMain": "FFFFFF",
-"awaySecondary": "000000",
+"homeMain": "000000
+"homeSecondary": "808080",
+"awayText": "000000
+"awayMain": "808080",
+"awaySecondary": "FFFFFF
 "logoURL": "https://raw.githubusercontent.com/JTre129/Shrug/main/12.png"
 },
 {
